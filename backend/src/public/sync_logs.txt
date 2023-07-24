@@ -1,0 +1,3 @@
+Log: Merge Table Name 'fp_markets'	| Time Stamp: 1,680,716,632,723
+Message: Succesfully Updated 0 rows.
+__________________________________________________

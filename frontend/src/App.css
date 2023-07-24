@@ -1,0 +1,38 @@
+.App {
+  padding: 70px;
+}
+
+.upload {
+  padding: 20px;
+  width: 400px;
+  border: 1px dashed grey;
+  margin-bottom: 20px;
+}
+
+.header {
+  white-space: nowrap;
+  text-align: left;
+}
+
+.tableFixHead tbody {
+  overflow: auto;
+}
+
+.row {
+  display: flex; /* equal height of the children */
+  height: 2rem;
+}
+
+.row-mal {
+  display: flex; /* equal height of the children */
+}
+
+.col {
+  flex: 1; /* additionally, equal width */
+}
+.col-med {
+  flex: 2; /* additionally, equal width */
+}
+.col-large {
+  flex: 3; /* additionally, equal width */
+}
