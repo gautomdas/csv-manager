@@ -1,6 +1,6 @@
 # CSV Data Management App
 
-This is a purpose built app I made while working at [https://web.tradeasy.tech/](tradeasy). This app was built with the intention of merging multiple customer data files from different data providers. However, this app can generally be used to merge multiple CSV files, edit the columns live, search through files, and generate reports.
+This is a purpose built app I made while working at [tradEAsy](https://web.tradeasy.tech/). This app was built with the intention of merging multiple customer data files from different data providers. However, this app can generally be used to merge multiple CSV files, edit the columns live, search through files, and generate reports.
 
 This project uses a SERN stack: SQL, Express, React, and Node.
 
